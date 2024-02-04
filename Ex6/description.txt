@@ -1,0 +1,16 @@
+Shalom,
+The principal subject of this description is the programme structure.
+This concern also the repartition of the functions
+
+For the first choice that is operate modifications on the wav file,
+in the entrance menu we chose to separate all the eight options
+in eight functions to conserve the clarity of the code. We also put
+the all menu in a single function to be able to call
+it even after the the composition of the melody as request.
+
+For the second choice that is composition of the melody we shortened
+the code by put this option in a function.
+For the same reason we chose to code an auxiliary function to calculate
+the sample rate.
+
+Finally we organized all the function in a main one that we called.
